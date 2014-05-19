@@ -8,11 +8,12 @@ What is it?
 
 Philosophy
 ----------
-- Rapid development w/rigor
-- Best of classical inheritance + proto inheritance
+- Rapid development w/rigor.
+- Best of classical inheritance + prototype inheritance.
 - Don't reinvent the wheel ( jquery, amd, less, etc) but do make it rounder.
 - English like API & code clarity are top priorities.
-- Strong naming conventions, eschew abbreviations, coding conventions.
+- Strong naming conventions, coding conventions.
+- Eschew abbreviations.
 - Magic is good as long as it's predictable.
 - Syntactic sugar is good for code clarity.
 - Dry dry dry.
