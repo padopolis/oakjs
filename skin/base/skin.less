@@ -390,7 +390,7 @@
 		}
 
 		&.icon-only {
-			padding:0;
+			padding:0 7px;
 		}
 
 
@@ -803,6 +803,11 @@
 
 		& > .Closebox {
 			.BIG_CLOSEBOX();
+		}
+		& > .Closebox.small {
+			.SMALL_CLOSEBOX();
+			height:100%;
+			left:5px;
 		}
 		&.showingClosebox {
 			& > .Header > .Title {
